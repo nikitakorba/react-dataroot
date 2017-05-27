@@ -7,18 +7,21 @@
  * LICENSE.txt file in the root directory of this source tree.
  */
 
+
 :root {
   /*
    * Typography
    * ======================================================================== */
 
-  --font-family-base: 'Segoe UI', 'HelveticaNeue-Light', sans-serif;
+  --font-family-base: 'Roboto', sans-serif;
+  --font-family-header: 'Lora', serif;
+ 
 
   /*
    * Layout
    * ======================================================================== */
 
-  --max-content-width: 1000px;
+  --max-content-width: 1380px;
 
   /*
    * Media queries breakpoints
