@@ -1,0 +1,9 @@
+.btnWhite {
+  min-width: 200px;
+  min-height: 50px;
+  color: #3c3c43;
+  background: white;
+  outline: none;
+  border: 2px solid #3c3c43;
+  cursor: pointer;
+}
